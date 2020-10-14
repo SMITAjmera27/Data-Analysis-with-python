@@ -1,5 +1,17 @@
 # Data-Analysis-with-python
 Free Code Camp Certifications
 
-First Project at Free Code Camp:-
+First Project:-
 The task is to create a function that will allow us to extract Mean, Variance, Standard deviation, Maximum and Minimum Values from a 3x3 Matrix.
+
+Second Project:-
+Performing Analysis on Demographic Data using Pandas
+
+Third Project:-
+
+
+Fourth Project:-
+
+
+Fifth Project:-
+
